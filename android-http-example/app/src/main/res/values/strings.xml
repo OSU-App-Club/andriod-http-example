@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-http-example</string>
+    <string name="filler">Once you select a url and hit the button, you will get results up here.</string>
+    <string name="action_settings">Settings</string>
+    <string name="typeaname">http://www.corvallis-bus.appspot.com/arrivals?stops=13713</string>
+    <string name="get">Get your Data</string>
+
+</resources>
